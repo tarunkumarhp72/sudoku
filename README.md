@@ -1,9 +1,9 @@
 # 🎯 Modern Sudoku Master
 
-![Sudoku Master](assets/screenshot_1.png)
-![License](assets/screenshot_2.png)
-![JavaScript](assets/screenshot_3.png)
-![Three.js](assets/screenshot_4.png)
+![Sudoku Master](assets/Screenshot_1.png)
+![License](assets/Screenshot_2.png)
+![JavaScript](assets/Screenshot_3.png)
+![Three.js](assets/Screenshot_4.png)
 
 A stunning, modern web-based Sudoku game featuring dynamic 3D backgrounds, glassmorphism UI, and advanced gameplay mechanics. Experience the classic puzzle with cutting-edge web technologies and immersive visual effects.
 
