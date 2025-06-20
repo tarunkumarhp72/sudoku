@@ -39,8 +39,8 @@ A stunning, modern web-based Sudoku game featuring dynamic 3D backgrounds, glass
 ### Installation
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/modern-sudoku-master.git
-   cd modern-sudoku-master
+   git clone https://github.com/yourusername/sudoku.git
+   cd sudoku
    ```
 
 2. Open `index.html` in your web browser:
